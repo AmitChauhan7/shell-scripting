@@ -8,3 +8,10 @@
 # syntax: echo INPUT-MESSAGE
 
 echo Hello World
+
+# Print Multi Lined Output
+
+# syntax: echo -e "Line1\nLine"
+# Observation: -e option is mandatory, \n prints new line, Double quotes are mandatory
+
+echo -e "Hello, \n Good Morning, \n Welcome to DevOps"
