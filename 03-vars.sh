@@ -16,5 +16,5 @@ DATE1=$(date)
 echo "Good Morning, Todays date is ${DATE1}"
 
 #Arithmetic
-ARTH=$((5+2*5/2-1))
+ARTH=$((5+2*5))
 echo ARTH = ${ARTH}
