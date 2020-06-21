@@ -17,7 +17,7 @@
 #echo -e "Hello, \nGood Morning, \nWelcome to DevOps"
 
 echo -e "\e[31mHello in RED Color\e[0m"
-echo -e "\e33mHello in Yellow Color\e[0m"
+echo -e "\e[33mHello in Yellow Color\e[0m"
 echo Hello with NO color
 
-echo -e "\e[42;36mHello\e[0m"
+echo -e "\e[42;34mHello\e[0m"
