@@ -6,6 +6,8 @@ commands
 done
 SYNTAX
 
-STUDENTS="Ram Shyam Raj" ; do
+STUDENTS="Ram Shyam Raj"
+
+for name in ${STUDENTS}; do
   echo Hello $name, Welocome
   done
