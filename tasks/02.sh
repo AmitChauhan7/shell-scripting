@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
-rows=5
+read -p 'Enter the number: ' n
+rows=n
 number=1
 for((i=1; i<=rows; i++))
 do
