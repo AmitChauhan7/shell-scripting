@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-read -p 'Enter the number: ' n
+read -p 'Enter any number: ' n
 rows=n
 number=1
 for((i=1; i<=rows; i++))
