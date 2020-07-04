@@ -13,4 +13,4 @@
 #   - Denotes which script it is.
 #   - Ensures the remaining code executing using that interpreter
 
-printf "\n echo"
+printf "echo \n"
