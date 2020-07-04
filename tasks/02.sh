@@ -11,7 +11,7 @@ do
   done
   number=$i
   k=1
-  for((j=1; j<=2*i/2 - 1; j++))
+  for((j=1; j<=2*1 - 1; j++))
   do
     if [ $j -lt $i ];
     then
